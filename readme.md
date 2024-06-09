@@ -24,3 +24,5 @@
    Tokens (Classic) > Generate New Token  
    https://github.com/settings/tokens/new
  
+### GIMP References
+https://shortcutworld.com/GIMP/win/GIMP_Shortcuts
