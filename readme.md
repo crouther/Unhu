@@ -15,5 +15,5 @@
 
 #### Post-Installation Recommended Configurations 
 
- Android Studio: Menu > Tools > "Create Desktop Entry..."
+ Android Studio: Menu > Tools > "Create Desktop Entry..."  
  Android Studio: Menu > Tools > "Create Command-line Launcher..."
