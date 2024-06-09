@@ -8,8 +8,8 @@
 
 ### Optional IDE's 
 
-> firefox -new-tab "https://code.visualstudio.com/docs/?dv=linux64_deb"
-> apt install ~/Downloads/code*.deb
+> firefox -new-tab "https://code.visualstudio.com/docs/?dv=linux64_deb"  
+> apt install ~/Downloads/code*.deb    
 
 > firefox -new-tab "https://developer.android.com/studio"
 
