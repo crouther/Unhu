@@ -17,3 +17,10 @@
 
  Android Studio: Menu > Tools > "Create Desktop Entry..."  
  Android Studio: Menu > Tools > "Create Command-line Launcher..."
+
+
+ ### Git / VCS Setup
+ GitHub > Settings > Developer Settings > Personal Access Tokens >   
+   Tokens (Classic) > Generate New Token  
+   https://github.com/settings/tokens/new
+ 
